@@ -196,8 +196,7 @@ PS: These are just a few examples of the many sensors available for Arduino proj
 <td><a href="">Link</a></td>
 </tr>
 <tr>
-<td>37</td>
-<td>Contributor: S M Asiful Islam Saky</td>
+<td colspan="2">Contributor: S M Asiful Islam Saky</td>
 <td><a href="https://github.com/saky-semicolon">About Me</a></td>
 </tr>
 <tr>
