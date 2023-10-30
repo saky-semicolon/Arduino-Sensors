@@ -203,3 +203,5 @@ PS: These are just a few examples of the many sensors available for Arduino proj
 </table>
 
 <i><b>Note:</i></b> It's just a demo list and there are some other arduino components have been added in this list as well. I will add more sensors soon. Stay tuned! Thank you! :)
+
+<!-- This changes has been made as a testing of Ubuntu OS -->
